@@ -1,0 +1,1 @@
+MineWatch\nDecentralized blockchain mining dashboard using Solidity, Golang, Python, and React.
