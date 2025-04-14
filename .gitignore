@@ -1,0 +1,41 @@
+# Node.js/React
+node_modules/
+build/
+.env
+*.log
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyo
+*.pyc
+*.egg-info/
+.venv/
+venv/
+
+# Golang
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+pkg/
+
+# Solidity/Hardhat
+artifacts/
+cache/
+coverage/
+coverage.json
+typechain-types/
+
+# AWS/DevOps
+.aws/
+credentials
+*.tfstate
+*.tfstate.backup
+
+# General
+.DS_Store
+*.swp
+*.bak
